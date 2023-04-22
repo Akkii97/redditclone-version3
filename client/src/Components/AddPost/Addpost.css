@@ -1,0 +1,27 @@
+form{
+
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 120%;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    min-width: 200px;
+}
+
+div{
+    margin-bottom: 30px;
+
+}
+
+.input2 input{
+    padding: 20px;
+    width: 80%;
+
+}
+input{
+
+    margin-top: 15px;
+}
+
+

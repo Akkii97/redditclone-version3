@@ -1,0 +1,39 @@
+.header-logo > img {
+    height: 55px;
+    width: 100px;
+}
+
+
+.header-container{
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+button{
+    margin-left: 10px;
+    height: 35px;
+    width: 100px;
+    border: 1px solid lightblue;
+    border-radius: 7px;
+    /* box-shadow: 0px 1px 0px 0px ; */
+    font-size: large;
+    background-color: #0079D3;
+    color: #ffffff;
+    
+}
+
+.post-upload >button{
+    width: 150px;
+    margin-left: 500px;
+}
+
+button:hover{
+    /* background-color: lightblue; */
+    background-color: rgb(98, 98, 218);
+    cursor: pointer;
+}
